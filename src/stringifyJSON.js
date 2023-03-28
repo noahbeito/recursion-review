@@ -13,12 +13,12 @@
 
 // base case:
 // current value is not array or obj
-  // return str
+// return str
 
 
 // recursive
 // if obj or array
-  // Push key/value or array[i] into result array
+// Push key/value or array[i] into result array
 
 
 // array.join(',')

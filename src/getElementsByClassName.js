@@ -30,4 +30,3 @@ var getElementsByClassName = function(className, element
   return results;
   // If element has more elements within, use recursion to check if they have class name
 };
-
